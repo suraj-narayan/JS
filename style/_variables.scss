@@ -1,0 +1,11 @@
+@minExtraLargeQuery: ~"(min-width: 1920px)";
+
+@mediaDeviceQuery: ~"(max-width: 1199px)";
+@minLargeQuery: ~"(min-width: 1200px)"; //default
+
+@mediaMediumQuery: ~"(min-width: 760px)";
+@mediaSmallQuery: ~"(max-width: 759px)";
+
+@mediaExtraSmallQuery: ~"(max-width: 576px)";
+
+@mediaDevice: ~"(min-width: 760px) and (max-width: 1199px)";
